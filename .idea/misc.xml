@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaDevInstall\maven\repo" />
+        <option name="mavenHome" value="D:/javaDevInstall/maven/apache-maven-3.8.3-bin/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\javaDevInstall\maven\apache-maven-3.8.3-bin\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+</project>
